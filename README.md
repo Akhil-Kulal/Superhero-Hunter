@@ -1,19 +1,21 @@
 # Superhero-Hunter
 
---> Enter the superhero name in input box and click on search button. This will fetch the superheros photo, name and id, and display them.
+Overview - A web app that fetches and displays a list of superheroes and their details from a marvel API that can be added and removed from favorites.
 
---> Even when the input in input box exceed 2 letters, the results for the query will be displayed if present else it will show nothing.
+--> Enter the superhero name in the input box and click on the search button. This will fetch the superhero photo, name, and id, and display them.
+ 
+--> Even when the input in the input box exceeds 2 letters, the results for the query will be displayed if present else it will show nothing.
+ 
+--> The heart icon is present in each results list of superheroes at the right corner.
 
---> The heart icon is present in each results list of superheros at the right corner. 
+--> The superhero can be added to the favorites list/page by clicking on the heart icon in the results list card. If already the superhero is favored then it can be unfavourited by clicking on the same heart icon.
+ 
+--> Clicking on any of the results list cards it will take you to the details page where all the details of that particular superhero are displayed.
+ 
+--> In the details page also the superhero can be added to the favorite list and removed from favorites if already favorited.
+ 
+--> On the home page, in the navbar, there is an option to go to the favorites page. This favorites page will have all the favorite superheroes. And in this page also there is an option to unfavourite the superhero by clicking on the heart icon.
+ 
+--> The project is persistent. Even if the page is refreshed the operations done before refreshing will remain the same.
 
---> The superhero can be added to favourites list/page on clicking on heart icon in results list card. If already the superhero is
-    favourited then it can be unfavourited by clicking on same heart icon.
-    
---> Clicking on any of the results list card it will take to details page where all the details of that particular superhero is displayed.
-
---> In details page also the superhero can be added to favourite list and remove from favourites if already favourited.
-
---> In home page, in navbar there is a option to go to favourites page. This favourites page will have all the favourited superheros. And 
-    in this page also there is a option to unfavourite the superhero on clicking on heart icon.
-    
---> The project is persistent. Even if the page is refreshed the operations done before refreshing will remain same.
+TECH STACK : HTML, Bootstrap, JavaScript
